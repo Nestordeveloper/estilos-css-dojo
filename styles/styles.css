@@ -1,0 +1,32 @@
+body {
+    background-color: whitesmoke;
+}
+.title {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+span {
+    color: aqua;
+}
+
+.subtitle {
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
+.contact {
+    text-decoration: underline;
+    text-align: right;
+    background-color: lightskyblue;
+    font-family: cursive;
+    font-weight: light;
+    padding: 0 5px;
+}
